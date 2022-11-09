@@ -1,0 +1,14 @@
+.card {
+  width: 387px;
+  height: 245px;
+}
+@media (min-width: 768px) {
+  .card {
+    width: 454px;
+    height: 281px;
+  }
+}
+
+.rate{
+  margin-left: 100px;
+}
